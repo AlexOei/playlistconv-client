@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/playlistconv-client/static/css/main.5eca885d.chunk.css",
+    "main.js": "/playlistconv-client/static/js/main.081797e6.chunk.js",
+    "main.js.map": "/playlistconv-client/static/js/main.081797e6.chunk.js.map",
+    "runtime-main.js": "/playlistconv-client/static/js/runtime-main.b25b9e3c.js",
+    "runtime-main.js.map": "/playlistconv-client/static/js/runtime-main.b25b9e3c.js.map",
+    "static/css/2.2a86faee.chunk.css": "/playlistconv-client/static/css/2.2a86faee.chunk.css",
+    "static/js/2.54a58f0b.chunk.js": "/playlistconv-client/static/js/2.54a58f0b.chunk.js",
+    "static/js/2.54a58f0b.chunk.js.map": "/playlistconv-client/static/js/2.54a58f0b.chunk.js.map",
+    "index.html": "/playlistconv-client/index.html",
+    "precache-manifest.2cd377a9604cebbb63d093b3c939ed95.js": "/playlistconv-client/precache-manifest.2cd377a9604cebbb63d093b3c939ed95.js",
+    "service-worker.js": "/playlistconv-client/service-worker.js",
+    "static/css/2.2a86faee.chunk.css.map": "/playlistconv-client/static/css/2.2a86faee.chunk.css.map",
+    "static/css/main.5eca885d.chunk.css.map": "/playlistconv-client/static/css/main.5eca885d.chunk.css.map",
+    "static/js/2.54a58f0b.chunk.js.LICENSE.txt": "/playlistconv-client/static/js/2.54a58f0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b25b9e3c.js",
+    "static/css/2.2a86faee.chunk.css",
+    "static/js/2.54a58f0b.chunk.js",
+    "static/css/main.5eca885d.chunk.css",
+    "static/js/main.081797e6.chunk.js"
+  ]
+}
