@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/playlistconv-client/precache-manifest.611a5e66a37809fdb52a5ec8e6f102df.js"
+  "/playlistconv-client/precache-manifest.5bdafc370d51a06926fe31afc7f83cc0.js"
 );
 
 self.addEventListener('message', (event) => {
